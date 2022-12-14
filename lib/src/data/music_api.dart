@@ -13,7 +13,7 @@ class MusicApi {
     final Response response = await _client.get(
       Uri.parse(url),
       headers: <String, String>{
-        'X-RapidAPI-Key': '265ae5b2cemsh61a67731f6115dcp1fc739jsn9828e42877a3',
+        'X-RapidAPI-Key': ${{ secrets.RAPIDAPI_KEY }},
         'X-RapidAPI-Host': 'shazam-core.p.rapidapi.com'
       },
     );

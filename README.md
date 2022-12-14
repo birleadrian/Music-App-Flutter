@@ -1,16 +1,15 @@
-# music_app
+# Music App Redux
 
-Music App.
+Music info application using redux.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### All songs page
+![First ss](resources/ss_2.png)
 
-A few resources to get you started if this is your first Flutter project:
+### If song does not have pictures
+![Second ss](resources/ss_1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Details of a song
+![Third ss](resources/ss_3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
